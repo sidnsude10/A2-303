@@ -1,8 +1,8 @@
 # A2-303
 
-- `functions.h`: Header file for the Single Linked List and Stack class declarations.
-- `functions.cpp`: Implementation file where the functionality for both classes is defined.
-- `main.cpp`: Contains the main function that creates objects and calls various methods to demonstrate the functionality.
+functions.h - Header file for the Single Linked List and Stack class declarations.
+functions.cpp - Implementation file where the functionality for both classes is defined.
+main.cpp - Contains the main function that creates objects and calls various methods to demonstrate the functionality.
 
 output should be:
 
